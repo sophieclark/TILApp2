@@ -18,5 +18,4 @@ public func routes(_ router: Router) throws {
             return acronym.save(on: req)
         }
     }
-    
 }
